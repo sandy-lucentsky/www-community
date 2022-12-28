@@ -1816,5 +1816,14 @@
       "platforms": "All Web Applications Supported",
       "note": "Automatic Penetration Testing for Web Applications & API Schema Penetration Testing",
       "type": "DAST"
+   },
+   {
+      "title": "Lucent Sky AVM",
+      "url": "https://www.lucentsky.com/",
+      "owner": "Lucent Sky",
+      "license": "Commercial",
+      "platforms": "SaaS or On-Premises",
+      "note": "Automatically finds and remediates vulnerabilities in .NET, ASP, Android, C/C++, ECMAScript, Go, iOS, JDK, PHP, Python, Ruby, and Visual Basic applications.",
+      "type": "SAST"
    }  
 ]
